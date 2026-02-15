@@ -3411,6 +3411,8 @@ class SaveStingrayAnimationOperator(Operator):
         self.report({'INFO'}, f"Saved Animation")
         return {'FINISHED'}
 
+#endregion
+
 #region Operators: Particles
 class SaveStingrayParticleOperator(Operator):
     bl_label  = "Save Particle"
