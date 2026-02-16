@@ -72,7 +72,8 @@ To get a more curated list of specific guides, join the [Community Discord](http
         - Example: `C:\Program Files\Blender Foundation\Blender 4.0\blender.exe`
     4. For future just open `__init__.py` and run `Blender: Run Script`
    
-> [!NOTE] Depending on your specific enviroment, it might be nessisary to add write persmions to the `C:\Program Files\Blender Foundation\Blender 4.0\4.0\python` for the Users local group
+> [!NOTE]
+> Depending on your specific enviroment, it might be nessisary to add write persmions to the `C:\Program Files\Blender Foundation\Blender 4.0\4.0\python` for the Users local group
     
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) allows for static type checking
     1. Install Pylance version `2023.12.1`
