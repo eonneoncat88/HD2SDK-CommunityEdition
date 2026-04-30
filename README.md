@@ -50,9 +50,9 @@ To get a more curated list of specific guides, join the [Community Discord](http
 > This is a tutorial about developing in [VSCode](https://code.visualstudio.com/). If you do not have VSCode, install it [Here](https://code.visualstudio.com/).
 
 ### Getting Started
-1. Install [Python](https://www.python.org/downloads/) `3.11.9`[^1] or later.
+1. Assure the **SDK is uninstalled**
+2. Install [Python](https://www.python.org/downloads/) `3.11.9`[^1] or later.
 [^1]: Minimum version used by blender 4.0-4.3, so this or anything newer will work
-2. Assure the **SDK is uninstalled**
 3. [Create a fork of the repository](https://github.com/Boxofbiscuits97/HD2SDK-CommunityEdition/fork)
 4. Copy the link to your fork
 5. Open VSCode and go to the Source Control Tab
@@ -82,7 +82,7 @@ To get a more curated list of specific guides, join the [Community Discord](http
         - Blender doesn't fully adhere to the Python standard, and this was the last version that supports Blender's implementaion
 
 
-### Manual Hot Reloading the Blender Addon
+### Hot reloading the blender addon
 1. In blender go to `Edit > Preferences > Keymap`
 2. Unfold the window section
 3. Scroll down and `Add New`
